@@ -470,10 +470,10 @@ span{
     
     <div class="hero">
         <div transition:slide id="leftHero">
-            <h1 class="fade heroTxt">Torsdag</h1>
+            <h1 class="fade heroTxt">Mandag</h1>
             <div class="underlineFade"></div>
-            <h1 class="desc">{data.Torsdag}</h1>
-            <p style="margin:20px; margin-left:0;">(melk)</p>    
+            <h1 class="desc">{data.Mandag}</h1>
+            <p style="margin:20px; margin-left:0;">(hvetegluten, fisk, bløtdyr, soya)</p>    
         </div>  
         <div transition:fade id="rightHero">
             <img class="dagensImg" src="scampi.png" alt="image of food">
@@ -502,7 +502,7 @@ span{
     <div class="menyHeadBox">
         <div>
             <h1 class="menyHead fade3">Meny</h1>
-            <h1 class="menyHead fade3">uke 10</h1>
+            <h1 class="menyHead fade3">uke 11</h1>
         </div>
         <div class="redLine"></div>
     </div>
